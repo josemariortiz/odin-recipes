@@ -1,5 +1,5 @@
 # odin-recipes
 
-First project with the-odin-project
+### September 15, 2024
 
-Let's get to it!!
+Let's get back at it
